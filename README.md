@@ -1,10 +1,12 @@
 # 👋 Hi, I'm 5devo
 
- **Full-Stack Developer**
+💻 **Full-Stack Innovator | Discord Bot Creator 🤖 | Web & App Enthusiast 🌐**  
+
+🚀 Building seamless web apps, crafting Discord bots, and mastering modern technologies.
 
 ---
 
-##  GitHub Stats
+## 📊 GitHub Stats
 
 ![5devo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=5devo&count_private=true&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=5devo&layout=compact&theme=tokyonight)  
@@ -12,7 +14,7 @@
 
 ---
 
-##  Achievements
+## 🏆 Achievements
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=5devo&theme=onedark&no-frame=true&row=1)
 
@@ -40,15 +42,16 @@
 
 ---
 
-##  About Me
+## 🌟 About Me
 
--  Passionate about **JavaScript (94%)**, **HTML (90%)**, **CSS (85%)**
--  Experienced with **Discord.js, Node.js, MongoDB, MySQL, Express**
--  Always exploring new frameworks and technologies
--  Love building **Discord Bots** and developer tools
+- 🔥 Passionate about **JavaScript (94%)**, **HTML (90%)**, **CSS (85%)**  
+- 🛠️ Experienced with **Discord.js, Node.js, MongoDB, MySQL, Express**  
+- 🚀 Always exploring **new frameworks and technologies**  
+- 🎮 Love building **Discord Bots** and **developer tools**  
+- 💡 Focused on creating **efficient, scalable, and modern applications**
 
 ---
 
-##  Connect
+## 📬 Connect
 
 [![GitHub Followers](https://img.shields.io/github/followers/5devo?style=for-the-badge&logo=github)](https://github.com/5devo)
